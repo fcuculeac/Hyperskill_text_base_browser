@@ -1,0 +1,378 @@
+[34m
+
+
+[37mDownload
+[37mDownload these documents
+[34mDownload these documents
+[37mDocs by version
+[37m
+Python 3.13 (in development)
+Python 3.12 (stable)
+Python 3.11 (stable)
+Python 3.10 (security-fixes)
+Python 3.9 (security-fixes)
+Python 3.8 (security-fixes)
+Python 3.7 (EOL)
+Python 3.6 (EOL)
+Python 3.5 (EOL)
+Python 3.4 (EOL)
+Python 3.3 (EOL)
+Python 3.2 (EOL)
+Python 3.1 (EOL)
+Python 3.0 (EOL)
+Python 2.7 (EOL)
+Python 2.6 (EOL)
+All versions
+
+[37mPython 3.13 (in development)
+[34mPython 3.13 (in development)
+[37mPython 3.12 (stable)
+[34mPython 3.12 (stable)
+[37mPython 3.11 (stable)
+[34mPython 3.11 (stable)
+[37mPython 3.10 (security-fixes)
+[34mPython 3.10 (security-fixes)
+[37mPython 3.9 (security-fixes)
+[34mPython 3.9 (security-fixes)
+[37mPython 3.8 (security-fixes)
+[34mPython 3.8 (security-fixes)
+[37mPython 3.7 (EOL)
+[34mPython 3.7 (EOL)
+[37mPython 3.6 (EOL)
+[34mPython 3.6 (EOL)
+[37mPython 3.5 (EOL)
+[34mPython 3.5 (EOL)
+[37mPython 3.4 (EOL)
+[34mPython 3.4 (EOL)
+[37mPython 3.3 (EOL)
+[34mPython 3.3 (EOL)
+[37mPython 3.2 (EOL)
+[34mPython 3.2 (EOL)
+[37mPython 3.1 (EOL)
+[34mPython 3.1 (EOL)
+[37mPython 3.0 (EOL)
+[34mPython 3.0 (EOL)
+[37mPython 2.7 (EOL)
+[34mPython 2.7 (EOL)
+[37mPython 2.6 (EOL)
+[34mPython 2.6 (EOL)
+[37mAll versions
+[34mAll versions
+[37mOther resources
+[37m
+PEP Index
+Beginner's Guide
+Book List
+Audio/Visual Talks
+Python Developer’s Guide
+
+[37mPEP Index
+[34mPEP Index
+[37mBeginner's Guide
+[34mBeginner's Guide
+[37mBook List
+[34mBook List
+[37mAudio/Visual Talks
+[34mAudio/Visual Talks
+[37mPython Developer’s Guide
+[34mPython Developer’s Guide
+[37mNavigation
+[37m
+
+index
+
+modules |
+
+Python »
+
+
+
+
+
+
+
+3.12.2 Documentation »
+    
+
+
+
+
+
+
+
+
+                     |
+                
+
+
+    Theme
+    
+Auto
+Light
+Dark
+
+ |
+
+[37m
+index
+[34mindex
+[37m
+modules |
+[34mmodules
+[37m
+[37mPython »
+[34mPython
+[37m
+
+
+
+[37m
+
+[37m
+3.12.2 Documentation »
+    
+[34m3.12.2 Documentation
+[37m
+[34m
+[37m
+
+
+
+
+
+
+                     |
+                
+[37m
+
+    Theme
+    
+Auto
+Light
+Dark
+
+ |
+[37mPython 3.12.2 documentation
+[37m
+  Welcome! This is the official documentation for Python 3.12.2.
+  
+[37mParts of the documentation:
+[37mWhat's new in Python 3.12?
+ or all "What's new" documents since 2.0
+[34mWhat's new in Python 3.12?
+[34mall "What's new" documents
+[37mTutorial
+start here
+[34mTutorial
+[37mLibrary Reference
+keep this under your pillow
+[34mLibrary Reference
+[37mLanguage Reference
+describes syntax and language elements
+[34mLanguage Reference
+[37mPython Setup and Usage
+how to use Python on different platforms
+[34mPython Setup and Usage
+[37mPython HOWTOs
+in-depth documents on specific topics
+[34mPython HOWTOs
+[37mInstalling Python Modules
+installing from the Python Package Index & other sources
+[34mInstalling Python Modules
+[37mDistributing Python Modules
+publishing modules for installation by others
+[34mDistributing Python Modules
+[37mExtending and Embedding
+tutorial for C/C++ programmers
+[34mExtending and Embedding
+[37mPython/C API
+reference for C/C++ programmers
+[34mPython/C API
+[37mFAQs
+frequently asked questions (with answers!)
+[34mFAQs
+[37mIndices and tables:
+[37mGlobal Module Index
+quick access to all modules
+[34mGlobal Module Index
+[37mGeneral Index
+all functions, classes, terms
+[34mGeneral Index
+[37mGlossary
+the most important terms explained
+[34mGlossary
+[37mSearch page
+search this documentation
+[34mSearch page
+[37mComplete Table of Contents
+lists all sections and subsections
+[34mComplete Table of Contents
+[37mMeta information:
+[37mReporting bugs
+[34mReporting bugs
+[37mContributing to Docs
+[34mContributing to Docs
+[37mAbout the documentation
+[34mAbout the documentation
+[37mHistory and License of Python
+[34mHistory and License of Python
+[37mCopyright
+[34mCopyright
+[37mDownload the documentation
+[34mDownload the documentation
+[37mDownload
+[37mDownload these documents
+[34mDownload these documents
+[37mDocs by version
+[37m
+Python 3.13 (in development)
+Python 3.12 (stable)
+Python 3.11 (stable)
+Python 3.10 (security-fixes)
+Python 3.9 (security-fixes)
+Python 3.8 (security-fixes)
+Python 3.7 (EOL)
+Python 3.6 (EOL)
+Python 3.5 (EOL)
+Python 3.4 (EOL)
+Python 3.3 (EOL)
+Python 3.2 (EOL)
+Python 3.1 (EOL)
+Python 3.0 (EOL)
+Python 2.7 (EOL)
+Python 2.6 (EOL)
+All versions
+
+[37mPython 3.13 (in development)
+[34mPython 3.13 (in development)
+[37mPython 3.12 (stable)
+[34mPython 3.12 (stable)
+[37mPython 3.11 (stable)
+[34mPython 3.11 (stable)
+[37mPython 3.10 (security-fixes)
+[34mPython 3.10 (security-fixes)
+[37mPython 3.9 (security-fixes)
+[34mPython 3.9 (security-fixes)
+[37mPython 3.8 (security-fixes)
+[34mPython 3.8 (security-fixes)
+[37mPython 3.7 (EOL)
+[34mPython 3.7 (EOL)
+[37mPython 3.6 (EOL)
+[34mPython 3.6 (EOL)
+[37mPython 3.5 (EOL)
+[34mPython 3.5 (EOL)
+[37mPython 3.4 (EOL)
+[34mPython 3.4 (EOL)
+[37mPython 3.3 (EOL)
+[34mPython 3.3 (EOL)
+[37mPython 3.2 (EOL)
+[34mPython 3.2 (EOL)
+[37mPython 3.1 (EOL)
+[34mPython 3.1 (EOL)
+[37mPython 3.0 (EOL)
+[34mPython 3.0 (EOL)
+[37mPython 2.7 (EOL)
+[34mPython 2.7 (EOL)
+[37mPython 2.6 (EOL)
+[34mPython 2.6 (EOL)
+[37mAll versions
+[34mAll versions
+[37mOther resources
+[37m
+PEP Index
+Beginner's Guide
+Book List
+Audio/Visual Talks
+Python Developer’s Guide
+
+[37mPEP Index
+[34mPEP Index
+[37mBeginner's Guide
+[34mBeginner's Guide
+[37mBook List
+[34mBook List
+[37mAudio/Visual Talks
+[34mAudio/Visual Talks
+[37mPython Developer’s Guide
+[34mPython Developer’s Guide
+[37mNavigation
+[37m
+
+index
+
+modules |
+
+Python »
+
+
+
+
+
+
+
+3.12.2 Documentation »
+    
+
+
+
+
+
+
+
+
+                     |
+                
+
+
+    Theme
+    
+Auto
+Light
+Dark
+
+ |
+
+[37m
+index
+[34mindex
+[37m
+modules |
+[34mmodules
+[37m
+[37mPython »
+[34mPython
+[37m
+
+
+
+[37m
+
+[37m
+3.12.2 Documentation »
+    
+[34m3.12.2 Documentation
+[37m
+[34m
+[37m
+
+
+
+
+
+
+                     |
+                
+[37m
+
+    Theme
+    
+Auto
+Light
+Dark
+
+ |
+[34mCopyright
+[34mHistory and License
+[34mPlease donate.
+[34mFound a bug
+[34mSphinx
